@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "id": "hanzol",
+      "nome": "HANZOL PRODUCOES",
+      "rotuloCentroCusto": "Centro de Custo",
+      "contaazul": {
+        "client_id": "1dcke3l1ek6hlun64bgtsvij43",
+        "client_secret": "8tpp8kguq7frfbhdf5vck76mosi14c4vcsgv77fqf6a0o43sue5"
+      }
+    }
+  ]
+}
