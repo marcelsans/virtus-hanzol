@@ -1,5 +1,5 @@
 // Troque aqui pelo id do cliente cadastrado em config/clients.json no backend
-const CLIENTE_ID = 'hanzol';
+   const CLIENTE_ID = 'hanzol';
 
 let filtroCentroCustoAtual = '';
 let ultimoPeriodoOuRange = 'ultimoano';
